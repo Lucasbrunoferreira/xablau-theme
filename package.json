@@ -10,6 +10,10 @@
     "categories": [
         "Themes"
     ],
+    "maintainers": [
+        "Lucas Bruno Ferreira <lucasbrunoferreira@gmail.com"
+    ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
