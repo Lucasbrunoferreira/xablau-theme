@@ -1,4 +1,4 @@
-# Xablau Theme - VSCode
+# Xablau theme - VSCode
 `This a nice dark theme to your VSCode`
 
 
