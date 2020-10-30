@@ -3,7 +3,11 @@
     "displayName": "Xablau Theme",
     "author": "https://github.com/Lucasbrunoferreira",
     "description": "A very nice xablau dark theme!",
+    "repository": {
+        "url": "https://github.com/Lucasbrunoferreira/xablau-theme"
+    },
     "version": "0.0.1",
+    "publisher": "Lucasbrunoferreira",
     "engines": {
         "vscode": "^1.50.0"
     },
