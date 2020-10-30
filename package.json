@@ -1,0 +1,22 @@
+{
+    "name": "xablau-theme",
+    "displayName": "Xablau Theme",
+    "author": "https://github.com/Lucasbrunoferreira",
+    "description": "A very nice xablau dark theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Xablau",
+                "uiTheme": "vs-dark",
+                "path": "./themes/xablau-color-theme.json"
+            }
+        ]
+    }
+}
