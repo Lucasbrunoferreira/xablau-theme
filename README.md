@@ -12,4 +12,6 @@
 
 <p align="center">
    <img src="./preview.png?raw=true" />
+
+   <img src="./preview-tsx.png?raw=true" />
 </p>

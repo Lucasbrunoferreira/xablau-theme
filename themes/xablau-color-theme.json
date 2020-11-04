@@ -26,9 +26,11 @@
 
 		"button.background": "#0D0D0D",
 
-		"list.hoverBackground": "#3effff0c",
-		"list.activeSelectionBackground": "#0e0e0e",
+		"list.hoverBackground": "#06fbfb20",
+		"list.activeSelectionBackground": "#06fbfb20",
 		"list.activeSelectionForeground": "#FFF",
+		"list.inactiveSelectionBackground": "#06fbfb20",
+		"list.inactiveSelectionForeground": "#FFF",
 
 		"statusBar.background": "#3effff6d",
 	},
@@ -89,18 +91,26 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
-				"punctuation",
-				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#d741b2"
+			}
+		},
+		{
+			"name": "HTML, JSX begin and end tag and pontuation",
+			"scope": [
+				"punctuation.definition.tag.html",
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html",
+				"punctuation.definition.tag",
+				"punctuation",
+			],
+			"settings": {
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -133,7 +143,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#19a401"
+				"foreground": "#51e046"
 			}
 		},
 		{
@@ -142,7 +152,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#d2d1d1"
 			}
 		},
 		{
@@ -199,7 +209,16 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#5ec9ef"
+			}
+		},
+		{
+			"name": "Entity names",
+			"scope": [
+				"entity.name",
+			],
+			"settings": {
+				"foreground": "#ecaf3e"
 			}
 		},
 		{
@@ -283,7 +302,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#6bebff"
 			}
 		},
 		{
@@ -292,7 +311,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#6bebff"
 			}
 		},
 		{
