@@ -6,7 +6,7 @@
     "repository": {
         "url": "https://github.com/Lucasbrunoferreira/xablau-theme"
     },
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "Lucasbrunoferreira",
     "engines": {
         "vscode": "^1.50.0"

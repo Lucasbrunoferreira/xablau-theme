@@ -1,10 +1,10 @@
 
 <p align="center">
-   <img src="./icon.png?raw=true" />
+   <img src="https://i.imgur.com/Lc4WUT4.png" />
 </p>
 
 # Xablau theme - VSCode
-  
+
 `This a nice dark theme to your VSCode`
 
 
@@ -15,7 +15,7 @@
 ## Preview
 
 <p align="center">
-   <img src="./preview.png?raw=true" />
+   <img src="https://i.imgur.com/X3avaFO.png" />
 
-   <img src="./preview-tsx.png?raw=true" />
+   <img src="https://i.imgur.com/yyQKg8h.png" />
 </p>
