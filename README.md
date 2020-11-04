@@ -8,7 +8,7 @@
 `This a nice dark theme to your VSCode`
 
 
-## Instal the theme!
+## Install the theme!
 
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Lucasbrunoferreira.xablau-theme)
 
